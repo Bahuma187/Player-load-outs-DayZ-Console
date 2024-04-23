@@ -9,12 +9,6 @@ LoadoutGear.json  - Geared loadout (ak, grenades, Scopes and 9vbattery)
 CFGgameplay.json   - Add the: "spawnGearPresetFiles": ["custom/LoadoutGear.json"],  
 
 
-CFGgameplay.json EXAMPLE
-
-       "disablePersonalLight": false,
-       "spawnGearPresetFiles": ["custom/Standardlaunchers.json"],        
-       "StaminaData":
-
 
 
 .json validater I use myself! It is not my validator. : https://jsonlint.com/
