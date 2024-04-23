@@ -7,11 +7,13 @@ Loadoutbob.json   - Building loadout
 LoadoutGear.json  - Geared loadout (ak, grenades, Scopes and 9vbattery)  
 
 CFGgameplay.json   - Add the: "spawnGearPresetFiles": ["custom/LoadoutGear.json"],  
-below:      "disablePersonalLight": false, and above:      "StaminaData":
 
-      "disablePersonalLight": false,
-          "spawnGearPresetFiles": ["custom/Standardlaunchers.json"],        
-      "StaminaData":
+
+CFGgameplay.json EXAMPLE
+
+       "disablePersonalLight": false,
+       "spawnGearPresetFiles": ["custom/Standardlaunchers.json"],        
+       "StaminaData":
 
 
 
